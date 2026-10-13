@@ -1,1 +1,3 @@
 This is a file to work with GIT MERGE.
+next commit 
+third commit

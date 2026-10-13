@@ -1,0 +1,1 @@
+will this rebase technique deletes files in rebase branch after merge into master using rebase, and and 2 committs will be come one or not in master branch?
